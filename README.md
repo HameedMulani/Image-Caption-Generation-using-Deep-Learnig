@@ -23,10 +23,15 @@
   <li>OpenCv</li>
 </ul>
 
+
 <h2>Examples </h2>
-<img src = "/images/snow.png">
+
+![project_image](https://github.com/HameedMulani/Image-Caption-Generation-using-Deep-Learning/assets/55029779/d3f07002-b854-47c9-b834-ea6bde9cc92f)
+
+<!-- <img src = "/images/snow.png">
 <img src = "/images/group.png">
 <img src = "/images/dog.png">
 <img src = "/images/race.png">
 <img src = "/images/guitar.png">
 <img src = "/images/work.png">
+ -->
