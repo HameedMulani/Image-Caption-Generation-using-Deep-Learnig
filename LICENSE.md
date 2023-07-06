@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Nithin Kumar
+Copyright (c) 2023 Hameed Mulani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
